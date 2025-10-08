@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Densan.Reams.AB.AB000BB"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("6.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+046acc53776bb91222c6f181b1571f9afb21ac6c"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d945a0d9b0225852ef99b7f34ddb83764ec92b5"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Densan.Reams.AB.AB000BB"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Densan.Reams.AB.AB000BB"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("6.0.0.0")> 
